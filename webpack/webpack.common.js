@@ -40,5 +40,5 @@ module.exports = {
       template: path.resolve(__dirname, '..', './src/index.html'),
     }),
   ],
-  stats: 'errors-only',
+  // stats: 'errors-only',
 }
